@@ -1,0 +1,7 @@
+{
+  "login": "https://app.bookdb.online/login",
+  "home": "https://app.bookdb.online/",
+  "checkout": "https://app.bookdb.online/checkout",
+  "wishlist": "https://app.bookdb.online/wishlist",
+  "orders": "https://app.bookdb.online/myorders"
+}
